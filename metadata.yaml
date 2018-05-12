@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35191'
     url: http://www.gutenberg.org/2009/agents/35191
 description: 'Sequel to: The Eldest Son, #38646.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38647#The-Honour-of-the-Clintons
 gutenberg_issued: '2012-01-23'
 gutenberg_type: Text
 identifiers:
